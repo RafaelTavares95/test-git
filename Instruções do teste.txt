@@ -1,0 +1,15 @@
+Esse teste serve para avaliar se vocês estão dominando a tecnologia git.
+
+O teste é bem simples, vocês devem:
+
+1- Baixar o repositorio;
+2- Criar um branch com o seu nome;
+3- Criar um arquivo de texto vazio nessa branch que você criou;
+4- Fazer o commit dessas alterações, com a mensagem "initial commit";
+5- Enviar tudo para o repositorio online;
+6- Editar o arquivo de texto, colocando nele o seu nome;
+7- Fazer o commit dessas alterações, com a mensagem "Modificando arquivo de texto";
+8- Criar uma tag nesse estilo [FIM-"seu nome"];
+9- Enviar tudo para o repositorio online;
+
+Boa Sorte!
